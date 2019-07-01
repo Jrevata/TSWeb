@@ -1,0 +1,27 @@
+[14-Feb-2019 20:07:41 UTC] PHP Fatal error:  Undefined class constant 'API_URL' in /home/ubuntu/workspace/tecscrumweb/app/Http/Controllers/LoginController.php on line 20
+[14-Feb-2019 20:07:59 UTC] PHP Fatal error:  Class 'App\Http\Controllers\this' not found in /home/ubuntu/workspace/tecscrumweb/app/Http/Controllers/LoginController.php on line 20
+[14-Feb-2019 20:08:07 UTC] PHP Fatal error:  Class 'App\Http\Controllers\this' not found in /home/ubuntu/workspace/tecscrumweb/app/Http/Controllers/LoginController.php on line 20
+[14-Feb-2019 20:08:38 UTC] PHP Fatal error:  Undefined class constant 'API_URL' in /home/ubuntu/workspace/tecscrumweb/app/Http/Controllers/LoginController.php on line 20
+[14-Feb-2019 20:17:39 UTC] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/ubuntu/workspace/tecscrumweb/app/Http/Controllers/LoginController.php on line 19
+[14-Feb-2019 22:43:13 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ubuntu/workspace/tecscrumweb/routes/web.php on line 24
+[14-Feb-2019 22:46:07 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Client' not found in /home/ubuntu/workspace/tecscrumweb/app/Http/Controllers/ProjectController.php on line 18
+[15-Feb-2019 13:37:56 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/ubuntu/workspace/tecscrumweb/app/Http/Controllers/ProjectController.php on line 24
+[15-Feb-2019 13:49:19 UTC] PHP Parse error:  syntax error, unexpected 'as' (T_AS), expecting ';' in /home/ubuntu/workspace/tecscrumweb/storage/framework/views/ff3a96469543c1a8a9e912a4959726705f0575f0.php on line 192
+[15-Feb-2019 13:52:57 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/ubuntu/workspace/tecscrumweb/storage/framework/views/ff3a96469543c1a8a9e912a4959726705f0575f0.php on line 195
+[15-Feb-2019 14:58:55 UTC] PHP Fatal error:  Class 'Symfony\Bridge\PsrHttpMessage\Factory\HttpFoundationFactory' not found in /home/ubuntu/workspace/tecscrumweb/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 613
+[15-Feb-2019 14:59:47 UTC] PHP Fatal error:  Class 'Symfony\Bridge\PsrHttpMessage\Factory\HttpFoundationFactory' not found in /home/ubuntu/workspace/tecscrumweb/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 613
+[18-Feb-2019 14:31:17 UTC] PHP Fatal error:  Call to undefined method Symfony\Component\HttpFoundation\Cookie::get() in /home/ubuntu/workspace/tecscrumweb/app/Http/Controllers/ProjectController.php on line 32
+[18-Feb-2019 14:50:30 UTC] PHP Fatal error:  Call to undefined method Symfony\Component\HttpFoundation\Cookie::get() in /home/ubuntu/workspace/tecscrumweb/app/Http/Controllers/ProjectController.php on line 32
+[18-Feb-2019 15:04:28 UTC] PHP Fatal error:  Call to undefined method Symfony\Component\HttpFoundation\Cookie::forget() in /home/ubuntu/workspace/tecscrumweb/app/Http/Controllers/ProjectController.php on line 32
+[18-Feb-2019 15:22:37 UTC] PHP Fatal error:  Call to undefined function App\Http\Controllers\saveCookie() in /home/ubuntu/workspace/tecscrumweb/app/Http/Controllers/ProjectController.php on line 34
+[18-Feb-2019 15:24:50 UTC] PHP Fatal error:  Class 'App\Http\Controllers\this' not found in /home/ubuntu/workspace/tecscrumweb/app/Http/Controllers/ProjectController.php on line 34
+[18-Feb-2019 15:25:03 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/ubuntu/workspace/tecscrumweb/app/Http/Controllers/ProjectController.php on line 34
+[18-Feb-2019 16:03:30 UTC] PHP Fatal error:  Cannot use object of type GuzzleHttp\Psr7\Response as array in /home/ubuntu/workspace/tecscrumweb/app/Http/Controllers/LoginController.php on line 37
+[18-Feb-2019 19:30:30 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Client' not found in /home/ubuntu/workspace/tecscrumweb/app/Http/Controllers/DailyController.php on line 16
+[18-Feb-2019 20:22:30 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Client' not found in /home/ubuntu/workspace/tecscrumweb/app/Http/Controllers/ForumController.php on line 17
+[18-Feb-2019 20:46:54 UTC] PHP Parse error:  syntax error, unexpected '$comments' (T_VARIABLE), expecting '(' in /home/ubuntu/workspace/tecscrumweb/app/Http/Controllers/ForumController.php on line 27
+[18-Feb-2019 21:27:52 UTC] PHP Parse error:  syntax error, unexpected '$client' (T_VARIABLE) in /home/ubuntu/workspace/tecscrumweb/app/Http/Controllers/ForumController.php on line 57
+[20-Feb-2019 14:26:55 UTC] PHP Fatal error:  Call to undefined function App\Http\Controllers\append() in /home/ubuntu/workspace/tecscrumweb/app/Http/Controllers/UserController.php on line 30
+[20-Feb-2019 14:31:19 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/tecscrumweb/app/Http/Controllers/UserController.php on line 27
+[20-Feb-2019 14:31:34 UTC] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/ubuntu/workspace/tecscrumweb/app/Http/Controllers/UserController.php on line 27
+[20-Feb-2019 16:37:34 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/ubuntu/workspace/tecscrumweb/routes/web.php on line 36
